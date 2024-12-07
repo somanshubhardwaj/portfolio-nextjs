@@ -1,0 +1,9 @@
+.home {
+  @apply bg-background text-blue-50 w-full min-h-screen;
+  .hero {
+    @apply min-h-screen w-full text-center font-robert-regular;
+    h1 {
+      @apply text-8xl font-zentry;
+    }
+  }
+}
